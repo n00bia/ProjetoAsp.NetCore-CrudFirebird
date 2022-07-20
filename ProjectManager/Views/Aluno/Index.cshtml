@@ -1,0 +1,40 @@
+﻿@using EM.Domain
+@model List<Aluno>
+@{
+    ViewData["Title"] = "Lista de alunos";
+}
+
+<h1>Lista de Alunos</h1>
+
+<div class="text-center">
+    <div class="d-grid input-group-append d-md-flex justify-content-md-end">
+        <a class="btn btn-info" role="button" asp-controller="Aluno" asp-action="Criar">Adicionar Aluno</a>
+
+    </div>
+    <h3 class="display-6">Tabela de Alunos</h3>
+
+    <div class="d-grid input-group-append d-md-flex justify-content-md-start">
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="opcoesdefiltro" id="nome" checked="checked" value="nome">
+            <label class="form-check-label" for="nome">Nome</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="opcoesdefiltro" id="matricula" value="matricula">
+            <label class="form-check-label" for="matricula">Matricula</label>
+        </div>
+    </div>
+
+    <div class="d-grid input-group-append d-md-flex justify-content-md-start">
+        <div class="form-group mx-sm-1 mb-2">
+            <input type="search" class="form-control" name="parteDoNome" id="parteDoNome" placeholder="Nome ou matricula">
+        </div>
+        <a id="btn-buscar" href="javascript:" class="btn btn-info mb-2">Buscar</a>
+
+
+    </div>
+    <div id="listaDeAlunos">
+
+    </div>
+
+
+</div>

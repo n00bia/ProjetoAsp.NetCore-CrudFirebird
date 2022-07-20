@@ -1,0 +1,12 @@
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\bin\Debug\net6.0\EM.Domain.deps.json
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\bin\Debug\net6.0\EM.Domain.dll
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\bin\Debug\net6.0\EM.Domain.pdb
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\obj\Debug\net6.0\EM.Domain.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\obj\Debug\net6.0\EM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\obj\Debug\net6.0\EM.Domain.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\obj\Debug\net6.0\EM.Domain.AssemblyInfo.cs
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\obj\Debug\net6.0\EM.Domain.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\obj\Debug\net6.0\EM.Domain.dll
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\obj\Debug\net6.0\refint\EM.Domain.dll
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\obj\Debug\net6.0\EM.Domain.pdb
+C:\temp\ws-vs2022\ProjectManager\EM.Domain\obj\Debug\net6.0\ref\EM.Domain.dll

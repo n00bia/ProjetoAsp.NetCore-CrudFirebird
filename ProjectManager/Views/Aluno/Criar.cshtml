@@ -1,0 +1,42 @@
+﻿@using EM.Domain
+@model Aluno
+@{
+    ViewData["Title"] = "Criar Aluno";
+}
+
+<div class="text-center">
+
+    <h1 class="display-4">Cadastrar Aluno</h1>
+
+</div>
+
+<form asp-controller="Aluno" asp-action="Criar" method="post">
+    <div class="form-group">
+        <label for="Nome">Nome</label>
+        <input type="text" asp-for="Nome" class="form-control" placeholder="Digite o nome">
+        @Html.ValidationMessageFor(x => x.Nome)
+    </div>
+    <div class="form-group">
+        <label for="CPF">CPF</label>
+        <input type="text" asp-for="CPF" class="form-control" placeholder="Digite o CPF">
+        @Html.ValidationMessageFor(x => x.CPF)
+    </div>
+    <div class="form-group">
+        <label class="control-label" for="Nascimento">Nascimento</label>
+        <input type="text" asp-for="Nascimento" class="form-control" placeholder="DD/MM/YYYY">
+        @Html.ValidationMessageFor(x => x.Nascimento)
+    </div>
+    <br />
+    <div class="form-group">
+        <label class="my-1 mr-2" for="Sexo"></label>
+        <select class="custom-select my-0 mr-sm-1" asp-for="Sexo" id="inlineFormCustomSelectPref">
+            <option selected>Sexo</option>
+            <option value="0">Masculino</option>
+            <option value="1">Feminino</option>
+        </select>       
+    </div>
+    <br />
+    <button type="submit" class="btn btn-info">Salvar</button>
+    <a class="btn btn-secondary" asp-controller="Aluno" asp-action="Index" role="button">Voltar</a>
+
+</form>

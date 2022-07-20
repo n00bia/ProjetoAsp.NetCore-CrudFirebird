@@ -1,0 +1,13 @@
+﻿@using EM.Domain
+@model Aluno
+@{
+    ViewData["Title"] = "Confirmação excluir Aluno";
+}
+
+<div class="text-center">
+    <h3>Deseja excluir o aluno (@Model.Nome)?</h3>
+    <br />
+    <a class="btn btn-secondary" role="button" asp-controller="Aluno" asp-action="Index">Cancelar</a>
+    <a class="btn btn-info" role="button" asp-controller="Aluno" asp-route-matricula="@Model.Matricula" asp-action="Excluir">Confirmar</a>
+
+</div>

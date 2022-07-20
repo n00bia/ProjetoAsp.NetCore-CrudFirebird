@@ -1,0 +1,39 @@
+﻿@using EM.Domain
+@model List<Aluno>
+
+
+<table class="table" id="table-alunos">
+    <thead>
+        <tr>
+            <th scope="col">Matrícula</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Sexo</th>
+            <th scope="col">Nascimento</th>
+            <th scope="col">CPF</th>
+            <th scope="col">Opções</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (Aluno aluno in Model)
+            {
+                <tr>
+                    <th scope="row">@aluno.Matricula</th>
+                    <td>@aluno.Nome</td>
+                    <td>@aluno.Sexo</td>
+                    <td>@aluno.Nascimento.Value.ToString("dd/MM/yyyy")</td>
+                    <td style="text-align:right">@aluno.CPF</td>
+                    <td>
+                        <div class="btn-group" role="group" aria-label="Basic example">
+                            <a role="button" class="btn btn-info" asp-route-matricula="@aluno.Matricula" asp-controller="Aluno" asp-action="Editar">Editar</a>
+                            <a role="button" class="btn btn-secondary" asp-route-matricula="@aluno.Matricula" asp-controller="Aluno" asp-action="ExcluirConfirmacao">Excluir</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        }
+
+
+    </tbody>
+</table>

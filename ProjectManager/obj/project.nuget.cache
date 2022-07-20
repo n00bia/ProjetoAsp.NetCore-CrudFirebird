@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQcUGtn9EQjfl5z1NToRXD1/+E1QzNpjZ5GUutGmDDNkh4vkeHmng6dO3vR1k9qCXlrB9u6qxaT3KxHiAHH7pQ==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\ProjectManager\\ProjectManager\\ProjectManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nubia\\.nuget\\packages\\firebirdsql.data.firebirdclient\\9.0.2\\firebirdsql.data.firebirdclient.9.0.2.nupkg.sha512",
+    "C:\\Users\\nubia\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\nubia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\nubia\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\nubia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
