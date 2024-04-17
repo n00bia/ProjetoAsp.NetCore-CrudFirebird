@@ -40,3 +40,12 @@
     <a class="btn btn-secondary" asp-controller="Aluno" asp-action="Index" role="button">Voltar</a>
 
 </form>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#CPF").mask('000.000.000-00', { reverse: true });
+            $("#Nascimento").mask("99/99/9999");
+        });
+    </script>
+}

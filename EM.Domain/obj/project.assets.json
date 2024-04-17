@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nubia\\.nuget\\packages\\": {},
+    "C:\\Users\\Núbia Santos\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\ws-vs2022\\ProjectManager\\EM.Domain\\EM.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Núbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\EM.Domain\\EM.Domain.csproj",
       "projectName": "EM.Domain",
-      "projectPath": "C:\\temp\\ws-vs2022\\ProjectManager\\EM.Domain\\EM.Domain.csproj",
-      "packagesPath": "C:\\Users\\nubia\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\ws-vs2022\\ProjectManager\\EM.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Núbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\EM.Domain\\EM.Domain.csproj",
+      "packagesPath": "C:\\Users\\Núbia Santos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Núbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\EM.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nubia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Núbia Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -45,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -56,7 +61,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

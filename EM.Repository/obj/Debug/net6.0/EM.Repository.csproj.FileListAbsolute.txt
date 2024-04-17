@@ -13,3 +13,19 @@ C:\temp\ws-vs2022\ProjectManager\EM.Repository\obj\Debug\net6.0\EM.Repository.dl
 C:\temp\ws-vs2022\ProjectManager\EM.Repository\obj\Debug\net6.0\refint\EM.Repository.dll
 C:\temp\ws-vs2022\ProjectManager\EM.Repository\obj\Debug\net6.0\EM.Repository.pdb
 C:\temp\ws-vs2022\ProjectManager\EM.Repository\obj\Debug\net6.0\ref\EM.Repository.dll
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\bin\Debug\net6.0\EM.Repository.deps.json
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\bin\Debug\net6.0\EM.Repository.dll
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\bin\Debug\net6.0\EM.Repository.pdb
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\bin\Debug\net6.0\EM.Domain.dll
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\bin\Debug\net6.0\EM.Domain.pdb
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\EM.Repository.csproj.AssemblyReference.cache
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\EM.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\EM.Repository.AssemblyInfoInputs.cache
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\EM.Repository.AssemblyInfo.cs
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\EM.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\EM.Repository.sourcelink.json
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\EM.Repos.38E60255.Up2Date
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\EM.Repository.dll
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\refint\EM.Repository.dll
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\EM.Repository.pdb
+C:\Users\Núbia Santos\source\repos\n00bia\ProjetoAsp.NetCore-CrudFirebird\EM.Repository\obj\Debug\net6.0\ref\EM.Repository.dll

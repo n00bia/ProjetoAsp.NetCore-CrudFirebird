@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\projectmanager\\views\\aluno\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\views\\aluno\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\projectmanager\\wwwroot\\lib\\jquery-mask-plugin\\test\\zepto\\event.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\wwwroot\\lib\\jquery-mask-plugin\\test\\zepto\\event.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\projectmanager\\wwwroot\\lib\\jquery-mask-plugin\\test\\sinon-qunit-1.0.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\wwwroot\\lib\\jquery-mask-plugin\\test\\sinon-qunit-1.0.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\projectmanager\\wwwroot\\lib\\jquery-mask-plugin\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\wwwroot\\lib\\jquery-mask-plugin\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\projectmanager\\wwwroot\\lib\\jquery-mask-plugin\\dist\\jquery.mask.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\wwwroot\\lib\\jquery-mask-plugin\\dist\\jquery.mask.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\projectmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\projectmanager\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\projectmanager\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\projectmanager\\views\\aluno\\_alunos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\views\\aluno\\_alunos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C50CD4-8A46-4E5F-879B-5389AE52A0FF}|EM.Repository\\EM.Repository.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\em.repository\\repositorioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C50CD4-8A46-4E5F-879B-5389AE52A0FF}|EM.Repository\\EM.Repository.csproj|solutionrelative:em.repository\\repositorioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25049D91-9EC8-47F4-A749-91ADA53DF7E0}|E.M.Repository.Testes\\EM.Repository.Testes.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\e.m.repository.testes\\repositorioteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25049D91-9EC8-47F4-A749-91ADA53DF7E0}|E.M.Repository.Testes\\EM.Repository.Testes.csproj|solutionrelative:e.m.repository.testes\\repositorioteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA498CF0-608C-4FFA-82D7-DB3A62713EF0}|E.M.Domain.Test\\EM.Domain.Testes.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\e.m.domain.test\\dominioteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA498CF0-608C-4FFA-82D7-DB3A62713EF0}|E.M.Domain.Test\\EM.Domain.Testes.csproj|solutionrelative:e.m.domain.test\\dominioteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\projectmanager\\views\\aluno\\excluirconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FF6677-5BD5-4445-AA9A-07AB91A46297}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\views\\aluno\\excluirconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25049D91-9EC8-47F4-A749-91ADA53DF7E0}|E.M.Repository.Testes\\EM.Repository.Testes.csproj|c:\\users\\n\u00FAbia santos\\source\\repos\\n00bia\\projetoasp.netcore-crudfirebird\\e.m.repository.testes\\em.repository.testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{25049D91-9EC8-47F4-A749-91ADA53DF7E0}|E.M.Repository.Testes\\EM.Repository.Testes.csproj|solutionrelative:e.m.repository.testes\\em.repository.testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Alunos.cshtml",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\Views\\Aluno\\_Alunos.cshtml",
+              "RelativeDocumentMoniker": "ProjectManager\\Views\\Aluno\\_Alunos.cshtml",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\Views\\Aluno\\_Alunos.cshtml",
+              "RelativeToolTip": "ProjectManager\\Views\\Aluno\\_Alunos.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:40:49.918Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "event.js",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\test\\zepto\\event.js",
+              "RelativeDocumentMoniker": "ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\test\\zepto\\event.js",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\test\\zepto\\event.js",
+              "RelativeToolTip": "ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\test\\zepto\\event.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T20:09:37.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sinon-qunit-1.0.0.js",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\test\\sinon-qunit-1.0.0.js",
+              "RelativeDocumentMoniker": "ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\test\\sinon-qunit-1.0.0.js",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\test\\sinon-qunit-1.0.0.js",
+              "RelativeToolTip": "ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\test\\sinon-qunit-1.0.0.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T20:09:13.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\package.json",
+              "RelativeDocumentMoniker": "ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\package.json",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\package.json",
+              "RelativeToolTip": "ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T20:08:47.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jquery.mask.min.js",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\dist\\jquery.mask.min.js",
+              "RelativeDocumentMoniker": "ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\dist\\jquery.mask.min.js",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\dist\\jquery.mask.min.js",
+              "RelativeToolTip": "ProjectManager\\wwwroot\\lib\\jquery-mask-plugin\\dist\\jquery.mask.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T20:08:31.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T18:45:57.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\Views\\Aluno\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ProjectManager\\Views\\Aluno\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\Views\\Aluno\\Criar.cshtml",
+              "RelativeToolTip": "ProjectManager\\Views\\Aluno\\Criar.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T18:35:54.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ProjectManager\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ProjectManager\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T13:45:03.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DominioTeste.cs",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\E.M.Domain.Test\\DominioTeste.cs",
+              "RelativeDocumentMoniker": "E.M.Domain.Test\\DominioTeste.cs",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\E.M.Domain.Test\\DominioTeste.cs",
+              "RelativeToolTip": "E.M.Domain.Test\\DominioTeste.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowHEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:40:49.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositorioAluno.cs",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\EM.Repository\\RepositorioAluno.cs",
+              "RelativeDocumentMoniker": "EM.Repository\\RepositorioAluno.cs",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\EM.Repository\\RepositorioAluno.cs",
+              "RelativeToolTip": "EM.Repository\\RepositorioAluno.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwE4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:40:49.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositorioTeste.cs",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\E.M.Repository.Testes\\RepositorioTeste.cs",
+              "RelativeDocumentMoniker": "E.M.Repository.Testes\\RepositorioTeste.cs",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\E.M.Repository.Testes\\RepositorioTeste.cs",
+              "RelativeToolTip": "E.M.Repository.Testes\\RepositorioTeste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:40:49.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExcluirConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\Views\\Aluno\\ExcluirConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "ProjectManager\\Views\\Aluno\\ExcluirConfirmacao.cshtml",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\Views\\Aluno\\ExcluirConfirmacao.cshtml",
+              "RelativeToolTip": "ProjectManager\\Views\\Aluno\\ExcluirConfirmacao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:40:49.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectManager\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\ProjectManager\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "ProjectManager\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:40:49.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EM.Repository.Testes.csproj",
+              "DocumentMoniker": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\E.M.Repository.Testes\\EM.Repository.Testes.csproj",
+              "RelativeDocumentMoniker": "E.M.Repository.Testes\\EM.Repository.Testes.csproj",
+              "ToolTip": "C:\\Users\\N\u00FAbia Santos\\source\\repos\\n00bia\\ProjetoAsp.NetCore-CrudFirebird\\E.M.Repository.Testes\\EM.Repository.Testes.csproj",
+              "RelativeToolTip": "E.M.Repository.Testes\\EM.Repository.Testes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T12:40:49.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
